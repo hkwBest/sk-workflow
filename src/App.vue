@@ -6,13 +6,13 @@
 
 <script>
 export default {
-    name: "app"
+    name: 'app'
 };
 </script>
 
 <style>
 #app {
-    font-family: "Avenir", Helvetica, Arial, sans-serif;
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #333333;
@@ -108,7 +108,7 @@ video {
 
 .clear:before,
 .clear:after {
-    content: " ";
+    content: ' ';
     display: table;
 }
 
@@ -179,7 +179,7 @@ select {
     border-radius: 2px;
     left: 0;
     top: 1px;
-    content: "";
+    content: '';
 }
 
 .radio_box a::before {
@@ -195,7 +195,7 @@ select {
     border-radius: 50%;
     top: 3px;
     left: 3px;
-    content: "";
+    content: '';
 }
 
 .radio_box a.active::after {
